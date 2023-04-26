@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saltywan&label=Profile%20views&color=0e75b6&style=flat" alt="Views" /> </p>
+
 - 👋 Hi, I’m Thanapol Popit
 - 👀 I’m interested in Web Development, AI/Machine learning, Cybersecurity 
 - 🌱 I’m currently learning Machine Learning
