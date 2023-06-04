@@ -1,8 +1,16 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saltywan&label=Profile%20views&color=0e75b6&style=flat" alt="Views" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=saltywan&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />&nbsp;               
+</p>
 
-- 👋 Hi, I’m Thanapol Popit
+### Hello,
+- 👋 I’m Thanapol Popit
 - 👀 I’m interested in Web Development, AI/Machine learning, Cybersecurity 
 - 🌱 I’m currently learning Machine Learning
+<br>
+<p align="left">
+    <a href="https://www.kaggle.com/thanapolpopit/" target="_blank"> <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" title="kaggle" alt="kaggle"/></a>&nbsp;
+    <a href="https://www.linkedin.com/in/thanapol-popit-97883a190/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" title="linkedin" alt="linkedin"/>&nbsp;
+</p>
 
 ---
 ## Skills
@@ -10,7 +18,7 @@
 <div>
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" title="Python" alt="Python"/>&nbsp;
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" title="C" alt="C"/>&nbsp;
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" title="Java" alt="Java"/>&nbsp;
+<!--   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" title="Java" alt="Java"/>&nbsp; -->
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" title="Bash" alt="Bash"/>&nbsp;
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" title="HTML5" alt="HTML"/>&nbsp;
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"  title="CSS3" alt="CSS"/>&nbsp;
@@ -27,6 +35,7 @@
 <div>
     <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" title="pandas" alt="pandas"/>&nbsp;
     <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" title="numpy" alt="numpy"/>&nbsp;
+    <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" title="matplotlib" alt="matplotlib"/>&nbsp;
     <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" title="opencv" alt="opencv"/>&nbsp;
     <img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" title="conda" alt="conda"/>&nbsp;
 </div>
