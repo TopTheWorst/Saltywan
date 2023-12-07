@@ -3,14 +3,10 @@
 </p>
 
 ### Hello,
-- 👋 I’m Thanapol Popit
+<!-- - 👋 I’m urmom -->
 - 👀 I’m interested in Web Development, AI/Machine learning, Cybersecurity 
 - 🌱 I’m currently learning Machine Learning
 <br>
-<p align="left">
-    <a href="https://www.kaggle.com/thanapolpopit/" target="_blank"> <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" title="kaggle" alt="kaggle"/></a>&nbsp;
-    <a href="https://www.linkedin.com/in/thanapol-popit-97883a190/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" title="linkedin" alt="linkedin"/>&nbsp;
-</p>
 
 ---
 ## Skills
