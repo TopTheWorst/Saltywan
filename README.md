@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" title="JavaScript" alt="JavaScript"/>&nbsp;
 </div>
 
-### Web Frameworks:
+### Web Framework:
 <div>
     <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" title="flask" alt="flask"/>&nbsp;
     <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" title="fastapi" alt="fastapi"/>&nbsp;
