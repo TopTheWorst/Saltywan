@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=toptheworst&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />&nbsp;               
 </p>
 
-### *Ahoy*,
+### *Ahoy!*,
 <!-- - 👋 I’m urmom -->
 - 👀 I’m interested in Pharmacy and Space Station 13
 - 🌱 I’m currently learning **Thaiglish**
